@@ -1,4 +1,3 @@
-```go
 package stalkerlib
 
 import (
@@ -424,4 +423,3 @@ func (c *StalkerClient) DownloadChannelLogo(logoURL, outputDir, filenameFormat s
 	}
 	return nil
 }
-```
